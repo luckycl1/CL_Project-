@@ -3,11 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/CL_Project.iml" filepath="$PROJECT_DIR$/.idea/CL_Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-common/gmall-common.iml" filepath="$PROJECT_DIR$/gmall-common/gmall-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/gmall-coupon/gmall-coupon.iml" filepath="$PROJECT_DIR$/gmall-coupon/gmall-coupon.iml" />
       <module fileurl="file://$PROJECT_DIR$/gmall-order/gmall-order.iml" filepath="$PROJECT_DIR$/gmall-order/gmall-order.iml" />
       <module fileurl="file://$PROJECT_DIR$/gmall-ware/gmall-ware.iml" filepath="$PROJECT_DIR$/gmall-ware/gmall-ware.iml" />
       <module fileurl="file://$PROJECT_DIR$/gmall_member/gmall_member.iml" filepath="$PROJECT_DIR$/gmall_member/gmall_member.iml" />
       <module fileurl="file://$PROJECT_DIR$/gulimall_product/gulimall_product.iml" filepath="$PROJECT_DIR$/gulimall_product/gulimall_product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/renren-fast/renren-fast.iml" filepath="$PROJECT_DIR$/renren-fast/renren-fast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/renren-generator/renren-generator.iml" filepath="$PROJECT_DIR$/renren-generator/renren-generator.iml" />
     </modules>
   </component>
 </project>
